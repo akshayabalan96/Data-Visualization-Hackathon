@@ -7,3 +7,6 @@ Tasks
 3.Conduct a facility and county level analysis on oneweek supply of eyeprotection, gloves, hand sanitizer, N95 masks, surgicalmasks, and ventilatorsupplies (define the following metric for this analysis:number of weeks thesupply shortage was experienced). Visualize how thismetric changes byfacility and county. Show the top 10 facilities thatface the aforementionedsupply shortages. In addition show visualizationsto compare the differencesbetween one week supply of eye protection, gloves,hand sanitizer, N95 masks,surgical masks, and ventilator supplies at a nationallevel.
 4.Conduct a facility and county level analysis on thenumber of beds available,and the ratio of number of ventilators dedicated forCOVID-19 to the totalnumber of ventilators available in a facility. Highlightthe top 10 facilities andcounties where the aforementioned ratio is high.
 5.Analyze how the metrics given in task 2, 3, and 4change with respect to time(weeks).
+
+
+The link below contains the website to the solution of the hackathon https://sites.google.com/view/nursinghomesgrp9/staff-shortages-q2?authuser=0
